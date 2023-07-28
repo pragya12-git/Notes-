@@ -22,6 +22,7 @@ class _Screen2State extends State<Screen2> {
                 Text(widget.list),
                 Text(widget.notes),
               ],
+              
             )
           ],
         ));

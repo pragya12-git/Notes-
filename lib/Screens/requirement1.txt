@@ -1,4 +1,4 @@
-import 'package:app7/Screens/screen2.dart';
+import 'package:app7/Screens/requirement2.text';
 import 'package:flutter/material.dart';
 
 class Screen1 extends StatefulWidget {
